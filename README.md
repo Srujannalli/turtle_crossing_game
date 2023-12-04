@@ -1,1 +1,1 @@
-# turtle_crossing_game
+# turtle_crossing_game, the game is basically a turtle trying to cross the road eith objects in its way this is created using turtle module and the programing is done with oops where level, traffic, crossing turtle are the classes for dividing the tasks for their own purposes and they are all brought together in main to function.
